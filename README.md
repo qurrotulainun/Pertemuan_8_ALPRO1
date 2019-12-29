@@ -1,0 +1,2 @@
+# Pertemuan_8_ALPRO1
+ARRAY DIMENSI 1
